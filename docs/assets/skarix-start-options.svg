@@ -1,0 +1,122 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1280"
+  height="448"
+  viewBox="0 0 1280 448"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Start your way</title>
+  <desc id="desc">
+    Draw shapes and text, import images or SVG, or collaborate with an optional MCP client. All feed
+    a Skarix project that you review before printing and cutting.
+  </desc>
+  <rect width="1280" height="448" rx="24" fill="#f5f7f1" />
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="32" y="39" font-size="14" fill="#586c64" font-weight="700" letter-spacing="2">
+      START YOUR WAY
+    </text>
+    <text x="32" y="88" font-size="36" fill="#183c33" font-weight="700">
+      Three ways in. One creative workspace.
+    </text>
+    <g transform="translate(32 123)">
+      <rect width="350" height="76" rx="16" fill="white" stroke="#d9e3da" />
+      <g transform="translate(16 20)">
+        <path d="m7 31 5-14L33-4 44 7 23 28Z" fill="#3f9d79" />
+        <path d="m12 17 11 11" stroke="white" stroke-width="2" />
+      </g>
+      <text x="84" y="31" font-size="23" fill="#183c33" font-weight="700">Draw it</text>
+      <text x="84" y="57" font-size="17" fill="#586c64" font-weight="400">
+        Shapes, text and paths
+      </text>
+    </g>
+    <g transform="translate(32 214)">
+      <rect width="350" height="76" rx="16" fill="white" stroke="#d9e3da" />
+      <g transform="translate(16 20)">
+        <rect
+          x="6"
+          y="-4"
+          width="34"
+          height="42"
+          rx="6"
+          fill="white"
+          stroke="#3f9d79"
+          stroke-width="2"
+        />
+        <circle cx="17" cy="9" r="4" fill="#f5ac98" />
+        <path d="m10 30 9-11 7 7 9-10" fill="none" stroke="#3f9d79" stroke-width="3" />
+      </g>
+      <text x="84" y="31" font-size="23" fill="#183c33" font-weight="700">Import it</text>
+      <text x="84" y="57" font-size="17" fill="#586c64" font-weight="400">
+        Your images and SVG artwork
+      </text>
+    </g>
+    <g transform="translate(32 305)">
+      <rect width="350" height="76" rx="16" fill="white" stroke="#d9e3da" />
+      <g transform="translate(16 20)">
+        <path d="M24-6 30 11 47 17 30 23 24 40 18 23 1 17 18 11Z" fill="#3f9d79" />
+        <path d="m44-7 3 7 7 3-7 3-3 7-3-7-7-3 7-3Z" fill="#f5ac98" />
+      </g>
+      <text x="84" y="31" font-size="23" fill="#183c33" font-weight="700">Ask AI to help</text>
+      <text x="84" y="57" font-size="17" fill="#586c64" font-weight="400">Optional MCP client</text>
+    </g>
+    <path
+      d="M391 161H428V252H475M391 252H475M391 343H428V252"
+      fill="none"
+      stroke="#9bb7a6"
+      stroke-width="2"
+    />
+    <path d="m467 246 8 6-8 6" fill="none" stroke="#9bb7a6" stroke-width="2" />
+    <g transform="translate(492 139)">
+      <rect width="322" height="224" rx="22" fill="#d8f2e7" />
+      <text x="22" y="37" font-size="25" fill="#183c33" font-weight="700">One Skarix project</text>
+      <rect x="22" y="57" width="164" height="139" rx="13" fill="white" />
+      <path
+        d="M37 73H171M37 100H171M37 127H171M37 154H171M57 65V188M86 65V188M115 65V188M144 65V188"
+        stroke="#e6eee6"
+      />
+      <rect
+        x="47"
+        y="79"
+        width="108"
+        height="99"
+        rx="27"
+        fill="#f5f7f1"
+        stroke="#d95d89"
+        stroke-width="2"
+      />
+      <g transform="translate(80 113) scale(1.05)">
+        <path d="M0 34C-8 3 15-19 43-18C48 10 31 39 0 34Z" fill="#3f9d79" />
+        <path
+          d="M-7 44 29-5M6 27 4 10M17 12 32 13"
+          fill="none"
+          stroke="#d8f2e7"
+          stroke-width="3"
+          stroke-linecap="round"
+        />
+      </g>
+      <rect x="206" y="76" width="91" height="29" rx="7" fill="#3f9d79" />
+      <rect x="206" y="117" width="91" height="29" rx="7" fill="white" />
+      <rect x="206" y="158" width="91" height="29" rx="7" fill="white" />
+      <text x="219" y="96" font-size="15" fill="white" font-weight="600">Layers</text>
+      <text x="219" y="137" font-size="15" fill="#183c33" font-weight="400">Artwork</text>
+      <text x="219" y="178" font-size="15" fill="#183c33" font-weight="400">Cut line</text>
+    </g>
+    <path d="M829 252H888m-8-6 8 6-8 6" fill="none" stroke="#9bb7a6" stroke-width="2" />
+    <g transform="translate(908 177)">
+      <rect width="340" height="148" rx="22" fill="#183c33" />
+      <circle cx="38" cy="37" r="13" fill="#f5ac98" />
+      <path d="M22 68C22 45 54 45 54 68" stroke="#f5ac98" stroke-width="6" fill="none" />
+      <text x="73" y="44" font-size="23" fill="white" font-weight="700">You review the result</text>
+      <text x="24" y="99" font-size="19" fill="#d7eade" font-weight="400">
+        Edit layers. Inspect the layout.
+      </text>
+      <text x="24" y="125" font-size="19" fill="#d7eade" font-weight="400">
+        Choose when to print and cut.
+      </text>
+    </g>
+    <text x="32" y="421" font-size="18" fill="#586c64" font-weight="400">
+      Work locally. Save a portable project. Come back and make it yours.
+    </text>
+  </g>
+</svg>
